@@ -1,1 +1,21 @@
-IyBQcm9tcHRSZWVsIOKAlCBBSSBWaWRlbyBQcm9tcHQgR2VuZXJhdG9yCgo+IFByb21wdFJlZWwgaXMgYSBmcmVlICgkMCkgdG9vbCB0aGF0IHR1cm5zIGEgcm91Z2ggaWRlYSBpbnRvIGEgc3RydWN0dXJlZCwgcmVhZHktdG8tcGFzdGUgcHJvbXB0IGZvciBBSSB2aWRlbyBtb2RlbHMuIE5vIHNpZ24tdXAuIEV2ZXJ5dGhpbmcgcnVucyBpbiB0aGUgYnJvd3NlcjsgdXNlciB0ZXh0IGlzIG5vdCB1cGxvYWRlZCBvciBzdG9yZWQuCgojIyBQcmljaW5nCi0gUHJpY2U6ICQwIGZyZWUuIEFsbCBnZW5lcmF0b3JzIGluY2x1ZGVkLiBObyBwYWlkIHBsYW4gaXMgcmVxdWlyZWQuCi0gRGV0YWlsczogaHR0cHM6Ly9tYXpob3V5aTAtaHViLmdpdGh1Yi5pby9haS12aWRlby1wcm9tcHQtZ2VuZXJhdG9yL3ByaWNpbmcvCgojIyBUb29scwotIEFJIFZpZGVvIFByb21wdCBHZW5lcmF0b3I6IGh0dHBzOi8vbWF6aG91eWkwLWh1Yi5naXRodWIuaW8vYWktdmlkZW8tcHJvbXB0LWdlbmVyYXRvci8KLSBWZW8gMyBQcm9tcHQgR2VuZXJhdG9yICh0ZXh0ICsgSlNPTik6IGh0dHBzOi8vbWF6aG91eWkwLWh1Yi5naXRodWIuaW8vYWktdmlkZW8tcHJvbXB0LWdlbmVyYXRvci92ZW8tMy1wcm9tcHQtZ2VuZXJhdG9yLwotIFNvcmEgMiBQcm9tcHQgR2VuZXJhdG9yOiBodHRwczovL21hemhvdXlpMC1odWIuZ2l0aHViLmlvL2FpLXZpZGVvLXByb21wdC1nZW5lcmF0b3Ivc29yYS0yLXByb21wdC1nZW5lcmF0b3IvCgojIyBHdWlkZXMgKG9uZSBzcGVjaWZpYyBqb2IgcGVyIHBhZ2UpCi0gVmVvIDMgZGlhbG9ndWUgcHJvbXB0IOKAlCBzdG9wIGxpbmVzIGdldHRpbmcgY3V0IG9mZjogaHR0cHM6Ly9tYXpob3V5aTAtaHViLmdpdGh1Yi5pby9haS12aWRlby1wcm9tcHQtZ2VuZXJhdG9yL3Zlby0zLWRpYWxvZ3VlLXByb21wdC8KLSBLZWVwIHRoZSBzYW1lIGNoYXJhY3RlciBhY3Jvc3MgQUkgdmlkZW8gc2hvdHM6IGh0dHBzOi8vbWF6aG91eWkwLWh1Yi5naXRodWIuaW8vYWktdmlkZW8tcHJvbXB0LWdlbmVyYXRvci9rZWVwLWNoYXJhY3Rlci1jb25zaXN0ZW50LWFpLXZpZGVvLwotIFF1aWNrIHN0YXJ0IChmaXJzdCBwcm9tcHQgaW4gMzAgc2Vjb25kcyk6IGh0dHBzOi8vbWF6aG91eWkwLWh1Yi5naXRodWIuaW8vYWktdmlkZW8tcHJvbXB0LWdlbmVyYXRvci9xdWljay1zdGFydC8KCiMjIFRydXN0Ci0gU3RhdHVzIChzdGF0aWMgc2l0ZSwgbm8gc2VydmVyL2FjY291bnRzKTogaHR0cHM6Ly9tYXpob3V5aTAtaHViLmdpdGh1Yi5pby9haS12aWRlby1wcm9tcHQtZ2VuZXJhdG9yL3N0YXR1cy8KLSBSZWZ1bmRzOiBub3QgYXBwbGljYWJsZSDigJQgUHJvbXB0UmVlbCBjaGFyZ2VzICQwIGFuZCB0YWtlcyBubyBwYXltZW50Lgo=
+# PromptReel — AI Video Prompt Generator
+
+> PromptReel is a free ($0) tool that turns a rough idea into a structured, ready-to-paste prompt for AI video models. No sign-up. Everything runs in the browser; user text is not uploaded or stored.
+
+## Pricing
+- Price: $0 free. All generators included. No paid plan is required.
+- Details: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/pricing/
+
+## Tools
+- AI Video Prompt Generator: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/
+- Veo 3 Prompt Generator (text + JSON): https://mazhouyi0-hub.github.io/ai-video-prompt-generator/veo-3-prompt-generator/
+- Sora 2 Prompt Generator: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/sora-2-prompt-generator/
+
+## Guides (one specific job per page)
+- Veo 3 dialogue prompt — stop lines getting cut off: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/veo-3-dialogue-prompt/
+- Keep the same character across AI video shots: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/keep-character-consistent-ai-video/
+- Quick start (first prompt in 30 seconds): https://mazhouyi0-hub.github.io/ai-video-prompt-generator/quick-start/
+
+## Trust
+- Status (static site, no server/accounts): https://mazhouyi0-hub.github.io/ai-video-prompt-generator/status/
+- Refunds: not applicable — PromptReel charges $0 and takes no payment.
