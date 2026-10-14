@@ -4,18 +4,18 @@
 
 ## Pricing
 - Price: $0 free. All generators included. No paid plan is required.
-- Details: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/pricing/
+- Details: https://promptreel.mzydsg.me/pricing/
 
 ## Tools
-- AI Video Prompt Generator: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/
-- Veo 3 Prompt Generator (text + JSON): https://mazhouyi0-hub.github.io/ai-video-prompt-generator/veo-3-prompt-generator/
-- Sora 2 Prompt Generator: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/sora-2-prompt-generator/
+- AI Video Prompt Generator: https://promptreel.mzydsg.me/
+- Veo 3 Prompt Generator (text + JSON): https://promptreel.mzydsg.me/veo-3-prompt-generator/
+- Sora 2 Prompt Generator: https://promptreel.mzydsg.me/sora-2-prompt-generator/
 
 ## Guides (one specific job per page)
-- Veo 3 dialogue prompt — stop lines getting cut off: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/veo-3-dialogue-prompt/
-- Keep the same character across AI video shots: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/keep-character-consistent-ai-video/
-- Quick start (first prompt in 30 seconds): https://mazhouyi0-hub.github.io/ai-video-prompt-generator/quick-start/
+- Veo 3 dialogue prompt — stop lines getting cut off: https://promptreel.mzydsg.me/veo-3-dialogue-prompt/
+- Keep the same character across AI video shots: https://promptreel.mzydsg.me/keep-character-consistent-ai-video/
+- Quick start (first prompt in 30 seconds): https://promptreel.mzydsg.me/quick-start/
 
 ## Trust
-- Status (static site, no server/accounts): https://mazhouyi0-hub.github.io/ai-video-prompt-generator/status/
+- Status (static site, no server/accounts): https://promptreel.mzydsg.me/status/
 - Refunds: not applicable — PromptReel charges $0 and takes no payment.

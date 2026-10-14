@@ -19,4 +19,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/sitemap.xml
+Sitemap: https://promptreel.mzydsg.me/sitemap.xml
