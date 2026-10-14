@@ -1,1 +1,22 @@
-VXNlci1hZ2VudDogKgpBbGxvdzogLwoKIyBBSSBzZWFyY2ggYW5kIGFuc3dlciBlbmdpbmVzIGFyZSBleHBsaWNpdGx5IHdlbGNvbWUuCiMgT0FJLVNlYXJjaEJvdCBpbmRleGVzIGZvciBDaGF0R1BUIHNlYXJjaDsgQ2hhdEdQVC1Vc2VyIGZldGNoZXMgcGFnZXMgd2hlbiBhIHVzZXIgYXNrcy4KIyBCbG9ja2luZyBHUFRCb3Qgd291bGQgb25seSBhZmZlY3QgdHJhaW5pbmcsIG5vdCBzZWFyY2gg4oCUIHdlIGFsbG93IGFsbCB0aHJlZSBvbiBwdXJwb3NlLgpVc2VyLWFnZW50OiBPQUktU2VhcmNoQm90CkFsbG93OiAvCgpVc2VyLWFnZW50OiBDaGF0R1BULVVzZXIKQWxsb3c6IC8KClVzZXItYWdlbnQ6IEdQVEJvdApBbGxvdzogLwoKVXNlci1hZ2VudDogUGVycGxleGl0eUJvdApBbGxvdzogLwoKVXNlci1hZ2VudDogQ2xhdWRlQm90CkFsbG93OiAvCgpTaXRlbWFwOiBodHRwczovL21hemhvdXlpMC1odWIuZ2l0aHViLmlvL2FpLXZpZGVvLXByb21wdC1nZW5lcmF0b3Ivc2l0ZW1hcC54bWwK
+User-agent: *
+Allow: /
+
+# AI search and answer engines are explicitly welcome.
+# OAI-SearchBot indexes for ChatGPT search; ChatGPT-User fetches pages when a user asks.
+# Blocking GPTBot would only affect training, not search — we allow all three on purpose.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://mazhouyi0-hub.github.io/ai-video-prompt-generator/sitemap.xml

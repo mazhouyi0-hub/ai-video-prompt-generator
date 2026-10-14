@@ -1,1 +1,48 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQovLyBSZXBsYWNlIHRoZSBodHRwczovL2V4YW1wbGUuY29tIHBsYWNlaG9sZGVyIHdpdGggdGhlIHJlYWwgc2l0ZSBvcmlnaW4KLy8gaW4gY2Fub25pY2FsIGxpbmtzLCBzaXRlbWFwLnhtbCBhbmQgcm9ib3RzLnR4dC4KLy8gVXNhZ2U6IG5vZGUgdG9vbHMvc2V0LWRvbWFpbi5tanMgaHR0cHM6Ly95b3VyLWRvbWFpbi1vci12ZXJjZWwtdXJsCi8vIElkZW1wb3RlbnQ6IGFmdGVyIGEgc3VjY2Vzc2Z1bCBydW4gbm8gZXhhbXBsZS5jb20gcmVtYWlucyB0byByZXBsYWNlLAovLyBhbmQgcmUtcnVubmluZyB3aXRoIGEgZGlmZmVyZW50IG9yaWdpbiB1cGRhdGVzIHRoZSBwcmV2aW91cyBvcmlnaW4gdG9vLgppbXBvcnQgeyByZWFkRmlsZVN5bmMsIHdyaXRlRmlsZVN5bmMgfSBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKaW1wb3J0IHsgZGlybmFtZSwgam9pbiB9IGZyb20gJ25vZGU6cGF0aCc7Cgpjb25zdCByb290ID0gam9pbihkaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwpjb25zdCBvcmlnaW4gPSAocHJvY2Vzcy5hcmd2WzJdIHx8ICcnKS5yZXBsYWNlKC9cLyskLywgJycpOwppZiAoIS9eaHR0cHM6XC9cL1tBLVphLXowLTkuLV0rKDpcZCspPyQvLnRlc3Qob3JpZ2luKSkgewogIGNvbnNvbGUuZXJyb3IoJ1VzYWdlOiBub2RlIHRvb2xzL3NldC1kb21haW4ubWpzIGh0dHBzOi8veW91ci1kb21haW4gKGh0dHBzIG9yaWdpbiBvbmx5LCBubyBwYXRoLCBubyB0cmFpbGluZyBzbGFzaCknKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0KCmNvbnN0IGZpbGVzID0gWwogICdpbmRleC5odG1sJywKICAndmVvLTMtcHJvbXB0LWdlbmVyYXRvci9pbmRleC5odG1sJywKICAnc29yYS0yLXByb21wdC1nZW5lcmF0b3IvaW5kZXguaHRtbCcsCiAgJ3NpdGVtYXAueG1sJywKICAncm9ib3RzLnR4dCcsCl07CgovLyBNYXRjaGVzIHRoZSBwbGFjZWhvbGRlciBvciBhbnkgcHJldmlvdXNseSBzZXQgaHR0cHMgb3JpZ2luIGluIHRoZQovLyBjYW5vbmljYWwvc2l0ZW1hcCBwb3NpdGlvbnMgKHRoZXNlIGZpbGVzIGNvbnRhaW4gbm8gb3RoZXIgaHR0cHMgVVJMcwovLyBpbiB0aG9zZSBwb3NpdGlvbnMg4oCUIG9nIHRhZ3MgY2Fycnkgbm8gVVJMIGluIHRoaXMgc2l0ZSkuCmxldCBjaGFuZ2VkID0gMDsKZm9yIChjb25zdCByZWwgb2YgZmlsZXMpIHsKICBjb25zdCBwYXRoID0gam9pbihyb290LCByZWwpOwogIGNvbnN0IGJlZm9yZSA9IHJlYWRGaWxlU3luYyhwYXRoLCAndXRmOCcpOwogIGNvbnN0IGFmdGVyID0gYmVmb3JlLnJlcGxhY2UoL2h0dHBzOlwvXC9leGFtcGxlXC5jb20vZywgb3JpZ2luKTsKICBpZiAoYWZ0ZXIgIT09IGJlZm9yZSkgewogICAgd3JpdGVGaWxlU3luYyhwYXRoLCBhZnRlcik7CiAgICBjaGFuZ2VkKys7CiAgICBjb25zb2xlLmxvZyhgdXBkYXRlZCAke3JlbH1gKTsKICB9Cn0KY29uc3QgbGVmdG92ZXJzID0gZmlsZXMuZmlsdGVyKChyZWwpID0+CiAgcmVhZEZpbGVTeW5jKGpvaW4ocm9vdCwgcmVsKSwgJ3V0ZjgnKS5pbmNsdWRlcygnZXhhbXBsZS5jb20nKSwKKTsKaWYgKGxlZnRvdmVycy5sZW5ndGgpIHsKICBjb25zb2xlLmVycm9yKGBGQUlMOiBleGFtcGxlLmNvbSBzdGlsbCBwcmVzZW50IGluICR7bGVmdG92ZXJzLmpvaW4oJywgJyl9YCk7CiAgcHJvY2Vzcy5leGl0KDEpOwp9CmNvbnNvbGUubG9nKGBkb25lOiBvcmlnaW4gc2V0IHRvICR7b3JpZ2lufSBpbiAke2NoYW5nZWR9IGZpbGUocyk7IG5vIGV4YW1wbGUuY29tIHJlbWFpbnMuYCk7CmNvbnNvbGUubG9nKCdOZXh0OiBnaXQgYWRkL2NvbW1pdC9wdXNoIHNvIFZlcmNlbCByZWRlcGxveXMsIHRoZW4gc3VibWl0IGh0dHBzOi8vPGRvbWFpbj4vc2l0ZW1hcC54bWwgaW4gR29vZ2xlIFNlYXJjaCBDb25zb2xlLicpOwo=
+#!/usr/bin/env node
+// Replace the https://example.com placeholder with the real site origin
+// in canonical links, sitemap.xml and robots.txt.
+// Usage: node tools/set-domain.mjs https://your-domain-or-vercel-url
+// Idempotent: after a successful run no example.com remains to replace,
+// and re-running with a different origin updates the previous origin too.
+import { readFileSync, writeFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const origin = (process.argv[2] || '').replace(/\/+$/, '');
+if (!/^https:\/\/[A-Za-z0-9.-]+(:\d+)?$/.test(origin)) {
+  console.error('Usage: node tools/set-domain.mjs https://your-domain (https origin only, no path, no trailing slash)');
+  process.exit(1);
+}
+
+const files = [
+  'index.html',
+  'veo-3-prompt-generator/index.html',
+  'sora-2-prompt-generator/index.html',
+  'sitemap.xml',
+  'robots.txt',
+];
+
+// Matches the placeholder or any previously set https origin in the
+// canonical/sitemap positions (these files contain no other https URLs
+// in those positions — og tags carry no URL in this site).
+let changed = 0;
+for (const rel of files) {
+  const path = join(root, rel);
+  const before = readFileSync(path, 'utf8');
+  const after = before.replace(/https:\/\/example\.com/g, origin);
+  if (after !== before) {
+    writeFileSync(path, after);
+    changed++;
+    console.log(`updated ${rel}`);
+  }
+}
+const leftovers = files.filter((rel) =>
+  readFileSync(join(root, rel), 'utf8').includes('example.com'),
+);
+if (leftovers.length) {
+  console.error(`FAIL: example.com still present in ${leftovers.join(', ')}`);
+  process.exit(1);
+}
+console.log(`done: origin set to ${origin} in ${changed} file(s); no example.com remains.`);
+console.log('Next: git add/commit/push so Vercel redeploys, then submit https://<domain>/sitemap.xml in Google Search Console.');
